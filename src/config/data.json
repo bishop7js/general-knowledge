@@ -1,0 +1,66 @@
+{
+  "QuestionsList": [
+    {
+      "id": 0,
+      "question": "1. In what city would you find Edgbaston Stadium ?",
+      "answer": "Birmingham"
+    },
+
+    {
+      "id": 1,
+      "question": "2. The Ashes is a Test cricket series between which two countries ?",
+      "answer": "Australia and England"
+    },
+
+    {
+      "id": 2,
+      "question": "3. How many bails sit on top of the cricket stumps ?",
+      "answer": "2"
+    },
+
+    {
+      "id": 3,
+      "question": "4. In what year was the 100-ball cricket tournament, The Hundred, first played ?",
+      "answer": "England"
+    },
+
+    {
+      "id": 4,
+      "question": "5. In what country was international cricketer Ben Stokes born in ?",
+      "answer": "New Zeland"
+    },
+
+    {
+      "id": 5,
+      "question": "6. What is the term for the type of spin bowling where the player bowls right-arm with a wrist-spin action, causing the ball to spin from right to left ?",
+      "answer": "Leg spin"
+    },
+
+    {
+      "id": 6,
+      "question": "7. In minutes, how long is the tea break in Test cricket ?",
+      "answer": "20"
+    },
+
+    {
+      "id": 7,
+      "question": "8. The distance between the popping crease and the bowling crease is ?",
+      "answer": "4 feet"
+    },
+    {
+      "id": 8,
+      "question": "9. What was the official name of the first World Cup ?",
+      "answer": "Prudential World Cup"
+    },
+    {
+      "id": 9,
+      "question": "10. What town are the Derbyshire County Cricket club based in ?",
+      "answer": "Derby"
+    },
+    {
+      "id": 10,
+      "question": "11. he prize money of Prudential World Cup for the winner amounted to ?",
+      "answer": "4000 dollars"
+    }
+  ]
+}
